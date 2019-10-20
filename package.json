@@ -1,0 +1,17 @@
+{
+  "name": "rocketseat-bootcamp-challenge1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diegorech/rocketseat-bootcamp-challenge1.git",
+  "author": "Diego Rech <diegorech@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
